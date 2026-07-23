@@ -37,9 +37,9 @@ Technologies used:
 Technologies used:  
 (link)
 
-- 2 Recipe site - Description  
+- 2 Eat It Up! - Recipe Interactive website  
 Technologies used: HTML, CSS, JavaScript  
-(link)
+[Eat It Up!](https://nicolasvalloriuk.github.io/EatItUp/)
 
 - 1 Photography Website- Description  
 Technologies used: HTML, CSS, Bootstrap, GitHub, VSCode  
