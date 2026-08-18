@@ -30,11 +30,11 @@ Version Control:
 ## Projects
 
 - 4 Shop - Description  
-Technologies used:  
+Technologies used: 
 (link)
 
-- 3 - Description  
-Technologies used:  
+- 3 Restaurant Booking - Restaurant booking system  
+Technologies used: HTML, CSS, JavaScript, Python, Bootstrap, GitHub, VSCode, DataBase
 (link)
 
 - 2 Eat It Up! - Recipe Interactive website  
