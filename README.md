@@ -10,8 +10,6 @@ I’m particularly interested in Junior Web Development and IT Support, where I 
 ### Certifications:
 - Level 5 Web Application Development (due. January 2027)
 - Level 2 Digital and It Skills (June 2025)
-- Graphic Design and Printery (June 2014)
-- Graphic design (June 2013)
 
 # Technologies and Tools
 
