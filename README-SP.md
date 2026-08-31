@@ -1,5 +1,4 @@
-# 🌐 Language / Idioma  
-[English](#English) | [Español](#Español)
+# 🌐 Language / Idioma  [![🇬🇧 English](https://img.shields.io/badge/English-1f6feb?style=flat)](#english-version) | [![🇪🇸 Español](https://img.shields.io/badge/Español-e63946?style=flat)](#versión-en-español)
 
 ---
 
