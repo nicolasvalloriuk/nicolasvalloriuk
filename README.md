@@ -25,7 +25,12 @@ Frameworks:
 Version Control: 
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github&logoSize=auto) 
 ![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git&logoSize=auto)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=visual-studio-code&logoSize=auto)
 
+
+Hosting:
+![GitHub Pages](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github-pages&logoSize=auto)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=heroku&logoSize=auto)
 
 ## Projects
 
