@@ -58,7 +58,7 @@ I’m particularly interested in Junior Web Development and IT Support, where I 
 An e-commerce coffee shop website designed to provide customers with a complete online shopping experience. Users can browse coffee products, manage items in a shopping basket, create an account and proceed through the purchase process. The project focuses on e-commerce functionality, user experience and clear product presentation.
 
 Technologies used: Python  
-[GitHub Repository]()  
+[GitHub Repository]() | 
 [G-espresso Coffee Roasters]()
 
 ---
@@ -67,7 +67,7 @@ Technologies used: Python
 A full-stack restaurant booking application designed for both customers and restaurant businesses. Customers can create and manage reservations through their accounts, while businesses can manage bookings through a dedicated interface. The project incorporates CRUD functionality, authentication, email confirmations and restaurant menu information.
 
 Technologies used: HTML, CSS, JavaScript, Python, Bootstrap, GitHub, VSCode, Database  
-[GitHub Repository](https://github.com/nicolasvalloriuk/laBarraUk)  
+[GitHub Repository](https://github.com/nicolasvalloriuk/laBarraUk) | 
 [La Barra UK]()
 
 ---
@@ -76,7 +76,7 @@ Technologies used: HTML, CSS, JavaScript, Python, Bootstrap, GitHub, VSCode, Dat
 An interactive recipe web application that helps users discover recipes by searching for ingredients or types of dishes. The project provides recipe images, ingredient lists and step-by-step instructions in a clear and user-friendly interface.
 
 Technologies used: HTML, CSS, JavaScript  
-[GitHub Repository](https://github.com/nicolasvalloriuk/EatItUp)  
+[GitHub Repository](https://github.com/nicolasvalloriuk/EatItUp) | 
 [Eat It Up!](https://nicolasvalloriuk.github.io/EatItUp/)  
 ![Siryuus Photography Mockup](/assets/images/eat-it-up-mockup.jpg)   
 
@@ -86,7 +86,7 @@ Technologies used: HTML, CSS, JavaScript
 A responsive photography portfolio website designed to showcase professional photography through a visual gallery. The website includes an About section and Contact section, providing visitors with information about the photographer and an easy way to make enquiries.
 
 Technologies used: HTML, CSS, Bootstrap, GitHub, VSCode  
-[GitHub Repository](https://github.com/nicolasvalloriuk/siryuusphotography)  
+[GitHub Repository](https://github.com/nicolasvalloriuk/siryuusphotography) | 
 [Siryuus Photography](https://nicolasvalloriuk.github.io/siryuusphotography/)  
 ![Siryuus Photography Mockup](/assets/images/siryuus-photography-mockup.jpg)  
 
@@ -152,7 +152,7 @@ Estoy especialmente interesado en el Desarrollo Web Junior y el Soporte IT, dond
 Un sitio web de comercio electrónico diseñado para ofrecer a los clientes una experiencia completa de compra online. Los usuarios pueden explorar productos de café, gestionar artículos en una cesta, crear una cuenta y completar el proceso de compra.
 
 Tecnologías utilizadas: Python  
-[Repositorio en GitHub]()  
+[Repositorio en GitHub]() | 
 [G-espresso Coffee Roasters]()
 
 ---
@@ -161,7 +161,7 @@ Tecnologías utilizadas: Python
 Aplicación full-stack para reservas de restaurante, diseñada para clientes y negocios. Incluye funcionalidad CRUD, autenticación, confirmaciones por correo electrónico e información del menú.
 
 Tecnologías utilizadas: HTML, CSS, JavaScript, Python, Bootstrap, GitHub, VSCode, Base de datos  
-[Repositorio en GitHub](https://github.com/nicolasvalloriuk/laBarraUk)  
+[Repositorio en GitHub](https://github.com/nicolasvalloriuk/laBarraUk) | 
 [La Barra UK]()
 
 ---
@@ -170,7 +170,7 @@ Tecnologías utilizadas: HTML, CSS, JavaScript, Python, Bootstrap, GitHub, VSCod
 Aplicación web interactiva que permite buscar recetas por ingredientes o tipos de platos. Incluye imágenes, listas de ingredientes e instrucciones paso a paso.
 
 Tecnologías utilizadas: HTML, CSS, JavaScript  
-[Repositorio en GitHub](https://github.com/nicolasvalloriuk/EatItUp)  
+[Repositorio en GitHub](https://github.com/nicolasvalloriuk/EatItUp) | 
 [Eat It Up!](https://nicolasvalloriuk.github.io/EatItUp/)  
 ![Siryuus Photography Mockup](/assets/images/eat-it-up-mockup.jpg)  
 
@@ -180,8 +180,8 @@ Tecnologías utilizadas: HTML, CSS, JavaScript
 Sitio web responsive para mostrar fotografía profesional mediante una galería visual. Incluye secciones de información y contacto.
 
 Tecnologías utilizadas: HTML, CSS, Bootstrap, GitHub, VSCode  
-[Repositorio en GitHub](https://github.com/nicolasvalloriuk/siryuusphotography)  
-[Siryuus Photography](https://nicolasvalloriuk.github.io/siryuusphotography/)  
+[Repositorio en GitHub](https://github.com/nicolasvalloriuk/siryuusphotography) | 
+[Siryuus Photography](https://nicolasvalloriuk.github.io/siryuusphotography/)   
 ![Siryuus Photography Mockup](/assets/images/siryuus-photography-mockup.jpg)  
 
 ---

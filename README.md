@@ -50,7 +50,7 @@ South Staffordshire College
 An e-commerce coffee shop website designed to provide customers with a complete online shopping experience. Users can browse coffee products, manage items in a shopping basket, create an account and proceed through the purchase process. The project focuses on e-commerce functionality, user experience and clear product presentation.
 
 Technologies used: Python  
-[GitHub Repository]()  
+[GitHub Repository]() | 
 [G-espresso Coffee Roasters]()  
 
 ---
@@ -60,7 +60,7 @@ Technologies used: Python
 A full-stack restaurant booking application designed for both customers and restaurant businesses. Customers can create and manage reservations through their accounts, while businesses can manage bookings through a dedicated interface. The project incorporates CRUD functionality, authentication, email confirmations and restaurant menu information.
 
 Technologies used: HTML, CSS, JavaScript, Python, Bootstrap, GitHub, VSCode, Database  
-[GitHub Repository](https://github.com/nicolasvalloriuk/laBarraUk)  
+[GitHub Repository](https://github.com/nicolasvalloriuk/laBarraUk) | 
 [La Barra Uk]()  
 
 ---
@@ -70,7 +70,7 @@ Technologies used: HTML, CSS, JavaScript, Python, Bootstrap, GitHub, VSCode, Dat
 An interactive recipe web application that helps users discover recipes by searching for ingredients or types of dishes. The project provides recipe images, ingredient lists and step-by-step instructions in a clear and user-friendly interface, making it easier for users to find inspiration and prepare meals.
 
 Technologies used: HTML, CSS, JavaScript  
-[GitHub Repository](https://github.com/nicolasvalloriuk/EatItUp)  
+[GitHub Repository](https://github.com/nicolasvalloriuk/EatItUp) | 
 [Eat It Up!](https://nicolasvalloriuk.github.io/EatItUp/)  
 ![Siryuus Photography Mockup](/assets/images/eat-it-up-mockup.jpg)  
 
@@ -81,7 +81,7 @@ Technologies used: HTML, CSS, JavaScript
 A responsive photography portfolio website designed to showcase professional photography through a visual gallery. The website includes an About section and Contact section, providing visitors with information about the photographer and an easy way to make enquiries. The project focuses on clean navigation, visual presentation and user-friendly design.
  
 Technologies used: HTML, CSS, Bootstrap, GitHub, VSCode  
-[GitHub Repository](https://github.com/nicolasvalloriuk/siryuusphotography)  
+[GitHub Repository](https://github.com/nicolasvalloriuk/siryuusphotography) | 
 [Siryuus Photography](https://nicolasvalloriuk.github.io/siryuusphotography/)  
 ![Siryuus Photography Mockup](/assets/images/siryuus-photography-mockup.jpg)  
 
