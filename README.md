@@ -29,22 +29,47 @@ Version Control:
 
 ## Projects
 
-- 4 G-espresso Coffee Roasters - e-Commerce Coffee Shop web application  
-Technologies used: Python
-(link)
+#### 4. G-espresso Coffee Roasters - E-commerce Coffee Shop (future project).  
 
-- 3 Restaurant Booking - Restaurant booking system  
-Technologies used: HTML, CSS, JavaScript, Python, Bootstrap, GitHub, VSCode, DataBase
-(link)
+An e-commerce coffee shop website designed to provide customers with a complete online shopping experience. Users can browse coffee products, manage items in a shopping basket, create an account and proceed through the purchase process. The project focuses on e-commerce functionality, user experience and clear product presentation.
 
-- 2 Eat It Up! - Recipe Interactive website  
+Technologies used: Python  
+[GitHub Repository]()  
+[G-espresso Coffee Roasters]()  
+
+---
+
+#### 3. La Barra de Kate UK - Restaurant Booking Web Application (currently working on).  
+
+A full-stack restaurant booking application designed for both customers and restaurant businesses. Customers can create and manage reservations through their accounts, while businesses can manage bookings through a dedicated interface. The project incorporates CRUD functionality, authentication, email confirmations and restaurant menu information.
+
+Technologies used: HTML, CSS, JavaScript, Python, Bootstrap, GitHub, VSCode, Database  
+[GitHub Repository](https://github.com/nicolasvalloriuk/laBarraUk)  
+[La Barra Uk]()  
+
+---
+
+#### 2. Eat It Up! - Interactive recipe search
+
+An interactive recipe web application that helps users discover recipes by searching for ingredients or types of dishes. The project provides recipe images, ingredient lists and step-by-step instructions in a clear and user-friendly interface, making it easier for users to find inspiration and prepare meals.
+
 Technologies used: HTML, CSS, JavaScript  
-[Eat It Up!](https://nicolasvalloriuk.github.io/EatItUp/)
+[GitHub Repository](https://github.com/nicolasvalloriuk/EatItUp)  
+[Eat It Up!](https://nicolasvalloriuk.github.io/EatItUp/)  
 
-- 1 Photography Website- Description  
+---
+
+#### 1. Siryuus Photography - Photography Portfolio Website  
+
+A responsive photography portfolio website designed to showcase professional photography through a visual gallery. The website includes an About section and Contact section, providing visitors with information about the photographer and an easy way to make enquiries. The project focuses on clean navigation, visual presentation and user-friendly design.
+ 
 Technologies used: HTML, CSS, Bootstrap, GitHub, VSCode  
-[Siryuus Photography](https://nicolasvalloriuk.github.io/siryuusphotography/)
+[GitHub Repository](https://github.com/nicolasvalloriuk/siryuusphotography)  
+[Siryuus Photography](https://nicolasvalloriuk.github.io/siryuusphotography/)  
 
+---
+
+<!-- [Contact me](mailto:nicolasvalloriuk@gmail.com) -->
 
 
 <!--
