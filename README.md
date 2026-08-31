@@ -39,7 +39,7 @@ South Staffordshire College
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=visual-studio-code&logoSize=auto)
 
 
-Hosting:
+### Hosting:
 ![GitHub Pages](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github-pages&logoSize=auto)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=heroku&logoSize=auto)
 
