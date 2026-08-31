@@ -46,7 +46,7 @@ I’m particularly interested in Junior Web Development and IT Support, where I 
 
 
 ### Hosting:
-![GitHub Pages](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github-pages&logoSize=auto)
+![GitHub Pages](https://img.shields.io/badge/-grey?style=flat&logo=github-pages&logoSize=auto)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=heroku&logoSize=auto)
 
 ---
@@ -140,7 +140,7 @@ Estoy especialmente interesado en el Desarrollo Web Junior y el Soporte IT, dond
 
 
 ### Hosting
-![GitHub Pages](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github-pages&logoSize=auto)
+![GitHub Pages](https://img.shields.io/badge/-grey?style=flat&logo=github-pages&logoSize=auto)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=heroku&logoSize=auto)
 
 ---
