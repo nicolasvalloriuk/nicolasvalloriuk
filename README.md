@@ -35,11 +35,16 @@ I’m particularly interested in Junior Web Development and IT Support, where I 
 ### Version Control: 
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github&logoSize=auto) 
 ![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git&logoSize=auto)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=visual-studio-code&logoSize=auto)
 
 
-# Projects
+Hosting:
+![GitHub Pages](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github-pages&logoSize=auto)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=heroku&logoSize=auto)
 
-### 4. G-espresso Coffee Roasters - E-commerce Coffee Shop (future project).  
+## Projects
+
+#### 4. G-espresso Coffee Roasters - E-commerce Coffee Shop (future project).  
 
 An e-commerce coffee shop website designed to provide customers with a complete online shopping experience. Users can browse coffee products, manage items in a shopping basket, create an account and proceed through the purchase process. The project focuses on e-commerce functionality, user experience and clear product presentation.
 
