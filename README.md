@@ -56,8 +56,8 @@ I’m particularly interested in Junior Web Development and IT Support, where I 
 ## 4. G-espresso Coffee Roasters – E-commerce Coffee Shop (future project)
 An e-commerce coffee shop website designed to provide customers with a complete online shopping experience. Users can browse coffee products, manage items in a shopping basket, create an account and proceed through the purchase process. The project focuses on e-commerce functionality, user experience and clear product presentation.
 
-Technologies used: Python  
-[GitHub Repository]() | 
+Technologies used: HTML, CSS, JavaScript, Python, Bootstrap, GitHub, VSCode, Database   
+[GitHub Repository](https://github.com/nicolasvalloriuk/G-Espresso-Coffee-Roasters) | 
 [G-espresso Coffee Roasters]()
 
 ---
@@ -74,7 +74,7 @@ Technologies used: HTML, CSS, JavaScript, Python, Bootstrap, GitHub, VSCode, Dat
 ## 2. Eat It Up! – Interactive Recipe Search
 An interactive recipe web application that helps users discover recipes by searching for ingredients or types of dishes. The project provides recipe images, ingredient lists and step-by-step instructions in a clear and user-friendly interface.
 
-Technologies used: HTML, CSS, JavaScript  
+Technologies used: HTML, CSS, JavaScript, Bootstrap, GitHub, VSCode, Database    
 [GitHub Repository](https://github.com/nicolasvalloriuk/EatItUp) | 
 [Eat It Up!](https://nicolasvalloriuk.github.io/EatItUp/)  
 ![Siryuus Photography Mockup](/assets/images/eat-it-up-mockup.jpg)   
@@ -150,8 +150,8 @@ Estoy especialmente interesado en el Desarrollo Web Junior y el Soporte IT, dond
 ## 4. G-espresso Coffee Roasters – Tienda de Café E-commerce (proyecto futuro)
 Un sitio web de comercio electrónico diseñado para ofrecer a los clientes una experiencia completa de compra online. Los usuarios pueden explorar productos de café, gestionar artículos en una cesta, crear una cuenta y completar el proceso de compra.
 
-Tecnologías utilizadas: Python  
-[Repositorio en GitHub]() | 
+Tecnologías utilizadas: HTML, CSS, JavaScript, Python, Bootstrap, GitHub, VSCode, Base de datos 
+[Repositorio en GitHub](https://github.com/nicolasvalloriuk/G-Espresso-Coffee-Roasters) | 
 [G-espresso Coffee Roasters]()
 
 ---
@@ -168,7 +168,7 @@ Tecnologías utilizadas: HTML, CSS, JavaScript, Python, Bootstrap, GitHub, VSCod
 ## 2. Eat It Up! – Búsqueda interactiva de recetas
 Aplicación web interactiva que permite buscar recetas por ingredientes o tipos de platos. Incluye imágenes, listas de ingredientes e instrucciones paso a paso.
 
-Tecnologías utilizadas: HTML, CSS, JavaScript  
+Tecnologías utilizadas: HTML, CSS, JavaScript, Bootstrap, GitHub, VSCode    
 [Repositorio en GitHub](https://github.com/nicolasvalloriuk/EatItUp) | 
 [Eat It Up!](https://nicolasvalloriuk.github.io/EatItUp/)  
 ![Siryuus Photography Mockup](/assets/images/eat-it-up-mockup.jpg)  
