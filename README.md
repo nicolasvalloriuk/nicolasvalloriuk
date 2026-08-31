@@ -29,8 +29,8 @@ Version Control:
 
 ## Projects
 
-- 4 Shop - Description  
-Technologies used: 
+- 4 G-espresso Coffee Roasters - e-Commerce Coffee Shop web application  
+Technologies used: Python
 (link)
 
 - 3 Restaurant Booking - Restaurant booking system  
