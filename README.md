@@ -8,8 +8,11 @@ My professional background has given me strong skills in problem-solving, commun
 I’m particularly interested in Junior Web Development and IT Support, where I can combine my technical knowledge with my experience understanding business and user needs.
 
 ### Certifications:
-- Level 5 Web Application Development (due. January 2027)
-- Level 2 Digital and It Skills (June 2025)
+- Level 5 Web Application Development - Code Institute (due. January 2027)  
+South Staffordshire College
+
+- Level 2 Digital and It Skills - Just It (June 2025)
+
 
 # Technologies and Tools
 
