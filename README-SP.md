@@ -1,39 +1,46 @@
-# Desarrollador de Software Junior
+# 🌐 Language / Idioma  
+[English](#English) | [Español](#Español)
 
-### Sobre mí: 
-Soy un estudiante de Desarrollo Web de Nivel 5 que está haciendo la transición a la industria tecnológica después de más de 10 años de experiencia en operaciones, gestión y atención al cliente.
+---
 
-Mi trayectoria profesional me ha proporcionado sólidas habilidades en resolución de problemas, comunicación, liderazgo y mejora de procesos empresariales. Actualmente estoy desarrollando mis habilidades técnicas en HTML, CSS, JavaScript y Python, mientras construyo aplicaciones web prácticas y trabajo con APIs, Git y GitHub.
+# English
 
-Estoy especialmente interesado en el Desarrollo Web Junior y el Soporte IT, donde puedo combinar mis conocimientos técnicos con mi experiencia en comprender las necesidades del negocio y de los usuarios.
+## Junior Software Developer
 
-### Certificaciones:
-- Level 5 Web Application Development - Code Institute (due. January 2027)  
-South Staffordshire College
+### About me  
+I’m a Level 5 Web Development student transitioning into the tech industry after more than 10 years of experience in operations, management, and customer service.
 
-- Level 2 Digital and It Skills - Just It (June 2025)
+My professional background has given me strong skills in problem-solving, communication, leadership, and improving business processes. I’m now developing my technical skills in HTML, CSS, JavaScript, and Python, while building practical web applications and working with APIs, Git, and GitHub.
 
+I’m particularly interested in Junior Web Development and IT Support, where I can combine my technical knowledge with my experience understanding business and user needs.
 
-# Tecnologías y Herramientas
+### Certifications
+- Level 5 Web Application Development – Code Institute (due January 2027)  
+  South Staffordshire College  
+- Level 2 Digital and IT Skills – Just IT (June 2025)
 
-### Tecnologías:
+---
+
+# Technologies and Tools
+
+### Language: 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&logoSize=auto) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white&logoSize=auto) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&logoSize=auto) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow&logoSize=auto)
 
-### Bases de datos:
+### Databases: 
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoSize=auto) 
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql&logoSize=auto) 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=postgresql&logoSize=auto)
 
-### Frameworks:
+### Frameworks: 
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=flat&logo=jquery&logoSize=auto) 
 ![jQuery](https://img.shields.io/badge/jQuery-blue?style=flat&logo=jquery&logoSize=auto) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=flat&logo=bootstrap&logoSize=auto)
 
 
-### Control de versiones:
+### Version Control: 
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github&logoSize=auto) 
 ![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git&logoSize=auto)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=visual-studio-code&logoSize=auto)
@@ -43,47 +50,136 @@ South Staffordshire College
 ![GitHub Pages](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github-pages&logoSize=auto)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=heroku&logoSize=auto)
 
-## Proyectos
+---
 
-#### 4. 4. G-espresso Coffee Roasters - Tienda de Café E-commerce (proyecto futuro) 
+# Projects
 
-Un sitio web de comercio electrónico diseñado para ofrecer a los clientes una experiencia completa de compra online. Los usuarios pueden explorar productos de café, gestionar artículos en una cesta, crear una cuenta y completar el proceso de compra. El proyecto se centra en la funcionalidad e-commerce, la experiencia del usuario y una presentación clara de los productos.
+## 4. G-espresso Coffee Roasters – E-commerce Coffee Shop (future project)
+An e-commerce coffee shop website designed to provide customers with a complete online shopping experience. Users can browse coffee products, manage items in a shopping basket, create an account and proceed through the purchase process. The project focuses on e-commerce functionality, user experience and clear product presentation.
 
-Tecnologías utilizadas: Python 
-[Repositorio en GitHub]()  
-[G-espresso Coffee Roasters]()  
+Technologies used: Python  
+[GitHub Repository]()  
+[G-espresso Coffee Roasters]()
 
 ---
 
-### 3. La Barra de Kate UK - Aplicación Web de Reservas de Restaurante (actualmente en desarrollo) 
+## 3. La Barra de Kate UK – Restaurant Booking Web Application (in progress)
+A full-stack restaurant booking application designed for both customers and restaurant businesses. Customers can create and manage reservations through their accounts, while businesses can manage bookings through a dedicated interface. The project incorporates CRUD functionality, authentication, email confirmations and restaurant menu information.
 
-Una aplicación de reservas de restaurante full-stack diseñada tanto para clientes como para negocios. Los clientes pueden crear y gestionar reservas desde sus cuentas, mientras que los restaurantes pueden administrar las reservas desde una interfaz dedicada. El proyecto incorpora funcionalidad CRUD, autenticación, confirmaciones por correo electrónico e información del menú del restaurante.
-
-Tecnologías utilizadas: HTML, CSS, JavaScript, Python, Bootstrap, GitHub, VSCode, Base de datos
-[Repositorio en GitHub](https://github.com/nicolasvalloriuk/laBarraUk)  
-[La Barra Uk]()  
+Technologies used: HTML, CSS, JavaScript, Python, Bootstrap, GitHub, VSCode, Database  
+[GitHub Repository](https://github.com/nicolasvalloriuk/laBarraUk)  
+[La Barra UK]()
 
 ---
 
-### 2. Eat It Up! - Búsqueda interactiva de recetas
+## 2. Eat It Up! – Interactive Recipe Search
+An interactive recipe web application that helps users discover recipes by searching for ingredients or types of dishes. The project provides recipe images, ingredient lists and step-by-step instructions in a clear and user-friendly interface.
 
-Una aplicación web interactiva que ayuda a los usuarios a descubrir recetas buscando por ingredientes o tipos de platos. El proyecto ofrece imágenes de recetas, listas de ingredientes e instrucciones paso a paso en una interfaz clara y fácil de usar, facilitando que los usuarios encuentren inspiración y preparen comidas.
-
-Tecnologías utilizadas: HTML, CSS, JavaScript, Bootstrap, GitHub, VSCode  
-[Repositorio en GitHub](https://github.com/nicolasvalloriuk/EatItUp)  
+Technologies used: HTML, CSS, JavaScript  
+[GitHub Repository](https://github.com/nicolasvalloriuk/EatItUp)  
 [Eat It Up!](https://nicolasvalloriuk.github.io/EatItUp/)  
-![Siryuus Photography Mockup](/assets/images/eat-it-up-mockup.jpg)  
 
 ---
 
-### 1. Siryuus Photography - Sitio Web de Portafolio Fotográfico  
+## 1. Siryuus Photography – Photography Portfolio Website
+A responsive photography portfolio website designed to showcase professional photography through a visual gallery. The website includes an About section and Contact section, providing visitors with information about the photographer and an easy way to make enquiries.
 
-Un sitio web de portafolio fotográfico responsive diseñado para mostrar fotografía profesional mediante una galería visual. El sitio incluye una sección “Sobre mí” y una sección de contacto, proporcionando a los visitantes información sobre el fotógrafo y una forma sencilla de realizar consultas. El proyecto se centra en una navegación limpia, presentación visual y diseño fácil de usar.
+Technologies used: HTML, CSS, Bootstrap, GitHub, VSCode  
+[GitHub Repository](https://github.com/nicolasvalloriuk/siryuusphotography)  
+[Siryuus Photography](https://nicolasvalloriuk.github.io/siryuusphotography/)
 
-Tecnologías utilizadas: HTML, CSS, Bootstrap, GitHub, VSCode 
+---
+---
+---
+---
+---
+
+# Español
+
+## Desarrollador de Software Junior
+
+### Sobre mí  
+Soy un estudiante de Desarrollo Web de Nivel 5 que está haciendo la transición a la industria tecnológica después de más de 10 años de experiencia en operaciones, gestión y atención al cliente.
+
+Mi trayectoria profesional me ha proporcionado sólidas habilidades en resolución de problemas, comunicación, liderazgo y mejora de procesos empresariales. Actualmente estoy desarrollando mis habilidades técnicas en HTML, CSS, JavaScript y Python, mientras construyo aplicaciones web prácticas y trabajo con APIs, Git y GitHub.
+
+Estoy especialmente interesado en el Desarrollo Web Junior y el Soporte IT, donde puedo combinar mis conocimientos técnicos con mi experiencia en comprender las necesidades del negocio y de los usuarios.
+
+### Certificaciones
+- Desarrollo de Aplicaciones Web Nivel 5 – Code Institute (previsto para enero de 2027)  
+  South Staffordshire College  
+- Nivel 2 en Habilidades Digitales y de IT – Just IT (junio de 2025)
+
+---
+
+# Tecnologías y Herramientas
+
+### Lenguage: 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&logoSize=auto) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white&logoSize=auto) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&logoSize=auto) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow&logoSize=auto)
+
+### Bases de datos  
+
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoSize=auto) 
+![MySQL](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql&logoSize=auto) 
+![Postgres](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=postgresql&logoSize=auto)
+
+### Frameworks: 
+![Django](https://img.shields.io/badge/Django-darkgreen?style=flat&logo=jquery&logoSize=auto) 
+![jQuery](https://img.shields.io/badge/jQuery-blue?style=flat&logo=jquery&logoSize=auto) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=flat&logo=bootstrap&logoSize=auto)
+
+
+### Control de versiones  
+![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github&logoSize=auto) 
+![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git&logoSize=auto)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=visual-studio-code&logoSize=auto)
+
+
+### Hosting
+![GitHub Pages](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github-pages&logoSize=auto)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=heroku&logoSize=auto)
+
+---
+
+# Proyectos
+
+## 4. G-espresso Coffee Roasters – Tienda de Café E-commerce (proyecto futuro)
+Un sitio web de comercio electrónico diseñado para ofrecer a los clientes una experiencia completa de compra online. Los usuarios pueden explorar productos de café, gestionar artículos en una cesta, crear una cuenta y completar el proceso de compra.
+
+Tecnologías utilizadas: Python  
+[Repositorio en GitHub]()  
+[G-espresso Coffee Roasters]()
+
+---
+
+## 3. La Barra de Kate UK – Aplicación Web de Reservas de Restaurante (en desarrollo)
+Aplicación full-stack para reservas de restaurante, diseñada para clientes y negocios. Incluye funcionalidad CRUD, autenticación, confirmaciones por correo electrónico e información del menú.
+
+Tecnologías utilizadas: HTML, CSS, JavaScript, Python, Bootstrap, GitHub, VSCode, Base de datos  
+[Repositorio en GitHub](https://github.com/nicolasvalloriuk/laBarraUk)  
+[La Barra UK]()
+
+---
+
+## 2. Eat It Up! – Búsqueda interactiva de recetas
+Aplicación web interactiva que permite buscar recetas por ingredientes o tipos de platos. Incluye imágenes, listas de ingredientes e instrucciones paso a paso.
+
+Tecnologías utilizadas: HTML, CSS, JavaScript  
+[Repositorio en GitHub](https://github.com/nicolasvalloriuk/EatItUp)  
+[Eat It Up!](https://nicolasvalloriuk.github.io/EatItUp/)
+
+---
+
+## 1. Siryuus Photography – Portafolio Fotográfico
+Sitio web responsive para mostrar fotografía profesional mediante una galería visual. Incluye secciones de información y contacto.
+
+Tecnologías utilizadas: HTML, CSS, Bootstrap, GitHub, VSCode  
 [Repositorio en GitHub](https://github.com/nicolasvalloriuk/siryuusphotography)  
-[Siryuus Photography](https://nicolasvalloriuk.github.io/siryuusphotography/)  
-![Siryuus Photography Mockup](/assets/images/siryuus-photography-mockup.jpg)  
+[Siryuus Photography](https://nicolasvalloriuk.github.io/siryuusphotography/)
+
 
 ---
 
