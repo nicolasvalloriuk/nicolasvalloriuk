@@ -1,35 +1,45 @@
-# Software Developer
+# Junior Software Developer
 
-About me: 
+### About me:  
+I’m a Level 5 Web Development student transitioning into the tech industry after more than 10 years of experience in operations, management, and customer service.
 
+My professional background has given me strong skills in problem-solving, communication, leadership, and improving business processes. I’m now developing my technical skills in HTML, CSS, JavaScript, and Python, while building practical web applications and working with APIs, Git, and GitHub.
 
-## Technologies and Tools
+I’m particularly interested in Junior Web Development and IT Support, where I can combine my technical knowledge with my experience understanding business and user needs.
 
-Technologies: 
+### Certifications:
+- Level 5 Web Application Development (due. January 2027)
+- Level 2 Digital and It Skills (June 2025)
+- Graphic Design and Printery (June 2014)
+- Graphic design (June 2013)
+
+# Technologies and Tools
+
+### Technologies: 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&logoSize=auto) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white&logoSize=auto) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&logoSize=auto) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow&logoSize=auto)
 
-Databases: 
+### Databases: 
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoSize=auto) 
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql&logoSize=auto) 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=postgresql&logoSize=auto)
 
-Frameworks: 
+### Frameworks: 
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=flat&logo=jquery&logoSize=auto) 
 ![jQuery](https://img.shields.io/badge/jQuery-blue?style=flat&logo=jquery&logoSize=auto) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=flat&logo=bootstrap&logoSize=auto)
 
 
-Version Control: 
+### Version Control: 
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github&logoSize=auto) 
 ![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git&logoSize=auto)
 
 
-## Projects
+# Projects
 
-#### 4. G-espresso Coffee Roasters - E-commerce Coffee Shop (future project).  
+### 4. G-espresso Coffee Roasters - E-commerce Coffee Shop (future project).  
 
 An e-commerce coffee shop website designed to provide customers with a complete online shopping experience. Users can browse coffee products, manage items in a shopping basket, create an account and proceed through the purchase process. The project focuses on e-commerce functionality, user experience and clear product presentation.
 
@@ -39,7 +49,7 @@ Technologies used: Python
 
 ---
 
-#### 3. La Barra de Kate UK - Restaurant Booking Web Application (currently working on).  
+### 3. La Barra de Kate UK - Restaurant Booking Web Application (currently working on).  
 
 A full-stack restaurant booking application designed for both customers and restaurant businesses. Customers can create and manage reservations through their accounts, while businesses can manage bookings through a dedicated interface. The project incorporates CRUD functionality, authentication, email confirmations and restaurant menu information.
 
@@ -49,7 +59,7 @@ Technologies used: HTML, CSS, JavaScript, Python, Bootstrap, GitHub, VSCode, Dat
 
 ---
 
-#### 2. Eat It Up! - Interactive recipe search
+### 2. Eat It Up! - Interactive recipe search
 
 An interactive recipe web application that helps users discover recipes by searching for ingredients or types of dishes. The project provides recipe images, ingredient lists and step-by-step instructions in a clear and user-friendly interface, making it easier for users to find inspiration and prepare meals.
 
@@ -60,7 +70,7 @@ Technologies used: HTML, CSS, JavaScript
 
 ---
 
-#### 1. Siryuus Photography - Photography Portfolio Website  
+### 1. Siryuus Photography - Photography Portfolio Website  
 
 A responsive photography portfolio website designed to showcase professional photography through a visual gallery. The website includes an About section and Contact section, providing visitors with information about the photographer and an easy way to make enquiries. The project focuses on clean navigation, visual presentation and user-friendly design.
  
