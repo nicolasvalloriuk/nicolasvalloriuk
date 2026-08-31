@@ -78,6 +78,7 @@ An interactive recipe web application that helps users discover recipes by searc
 Technologies used: HTML, CSS, JavaScript  
 [GitHub Repository](https://github.com/nicolasvalloriuk/EatItUp)  
 [Eat It Up!](https://nicolasvalloriuk.github.io/EatItUp/)  
+![Siryuus Photography Mockup](/assets/images/eat-it-up-mockup.jpg)   
 
 ---
 
@@ -86,7 +87,8 @@ A responsive photography portfolio website designed to showcase professional pho
 
 Technologies used: HTML, CSS, Bootstrap, GitHub, VSCode  
 [GitHub Repository](https://github.com/nicolasvalloriuk/siryuusphotography)  
-[Siryuus Photography](https://nicolasvalloriuk.github.io/siryuusphotography/)
+[Siryuus Photography](https://nicolasvalloriuk.github.io/siryuusphotography/)  
+![Siryuus Photography Mockup](/assets/images/siryuus-photography-mockup.jpg)  
 
 ---
 ---
@@ -169,7 +171,8 @@ Aplicación web interactiva que permite buscar recetas por ingredientes o tipos 
 
 Tecnologías utilizadas: HTML, CSS, JavaScript  
 [Repositorio en GitHub](https://github.com/nicolasvalloriuk/EatItUp)  
-[Eat It Up!](https://nicolasvalloriuk.github.io/EatItUp/)
+[Eat It Up!](https://nicolasvalloriuk.github.io/EatItUp/)  
+![Siryuus Photography Mockup](/assets/images/eat-it-up-mockup.jpg)  
 
 ---
 
@@ -178,8 +181,8 @@ Sitio web responsive para mostrar fotografía profesional mediante una galería 
 
 Tecnologías utilizadas: HTML, CSS, Bootstrap, GitHub, VSCode  
 [Repositorio en GitHub](https://github.com/nicolasvalloriuk/siryuusphotography)  
-[Siryuus Photography](https://nicolasvalloriuk.github.io/siryuusphotography/)
-
+[Siryuus Photography](https://nicolasvalloriuk.github.io/siryuusphotography/)  
+![Siryuus Photography Mockup](/assets/images/siryuus-photography-mockup.jpg)  
 
 ---
 
